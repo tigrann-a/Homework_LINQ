@@ -3,9 +3,7 @@
 public class Student
 {
     public int StID;
+    public string? FirstName;
     public string? LastName;
-
-    public Student()
-    {
-    }
+    public int Age;
 }
